@@ -1,0 +1,2 @@
+# Btce
+Btce tesnet
